@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, SQL, HTML, CSS**
 
-- 📫 How to reach me **javilesaca@gmail.com**
+- 📫 How to reach me **javilesaca@javilesaca.pro**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
